@@ -1,1 +1,1 @@
-##Cohen-Sutherland 2d line clipping
+## Cohen-Sutherland 2d line clipping
