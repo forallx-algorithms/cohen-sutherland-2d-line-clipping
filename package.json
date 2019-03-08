@@ -1,0 +1,18 @@
+{
+  "name": "cohen-sutherland-2d-line-clipping",
+  "version": "1.0.0",
+  "description": "Cohen-Sutherland 2d line clipping alrorithm",
+  "main": "cohen_sutherland_2d_line_clipping.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "keywords": [
+    "2d-graphics"
+  ],
+  "author": "Evgeniy Kuznetsov",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
